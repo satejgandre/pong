@@ -1,7 +1,7 @@
 ### Micropython Pong
 
 #### Overview:
-PyAreSquare Pong is a single-player pong game designed for the Raspberry Pi Pico with an SSD1306 OLED display. The game combines classic pong mechanics with modern features such as an aimbot option, a dynamic score display, and engaging game-over animations. Created by Satej Gandre, the game offers a mix of challenge and entertainment.
+PyAreSquare Pong is a single-player pong game designed for the Raspberry Pi Pico with an SSD1306 OLED display. The game combines classic pong mechanics with modern features such as an aimbot option, a dynamic score display, and engaging animations. Created by Satej Gandre, the game offers a mix of challenge and entertainment.
 
 #### Features:
 1. **Simple Controls**: 
@@ -22,7 +22,7 @@ PyAreSquare Pong is a single-player pong game designed for the Raspberry Pi Pico
     - A lives bar is displayed at the top right, showing the remaining lives visually.
     
 5. **Splash Screen**:
-    - The game starts with a splash screen displaying "PyAreSquare 2024" and "Pong" with smooth upward scrolling text. The game starts when any button is pressed.
+    - The game starts with a splash screen displaying "PyAreSquare 2024" and "Pong" with smooth downward scrolling text. The game starts when any button is pressed.
 
 6. **Restart Option**:
     - After the game over sequence, the player is prompted to restart the game. Pressing any button will reset the game and allow for a new playthrough.
